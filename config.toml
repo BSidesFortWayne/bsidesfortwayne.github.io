@@ -9,7 +9,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Author]
   name = "BSIDES Fort Wayne Organizers"
   bio = ""
-  avatar = "img/avatar.png"
+  avatar = "img/logo.png"
 
 [Params]
   description = "The digital home of BSIDES Fort Wayne, Indiana" # Description of your site
@@ -21,6 +21,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   post_meta = ["date", "categories"] # Order of post meta information
 
 [Params.logo]
+  image = "img/logo.png"
   subtitle = "" # Logo subtitle
 
 [Params.sidebar]
