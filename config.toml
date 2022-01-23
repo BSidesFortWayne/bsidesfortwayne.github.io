@@ -20,6 +20,10 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     name = 'Schedule'
     url = '/schedule'
     weight = -90
+  [[Menu.main]]
+    name = 'About'
+    url = '/about'
+    weight = -80
 
 [Params]
   description = "The digital home of BSIDES Fort Wayne, Indiana" # Description of your site
