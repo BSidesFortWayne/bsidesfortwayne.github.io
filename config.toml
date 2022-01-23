@@ -11,6 +11,16 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   bio = ""
   avatar = "img/logo.png"
 
+[Menu]
+  [[Menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = -100
+  [[Menu.main]]
+    name = 'Schedule'
+    url = '/schedule'
+    weight = -90
+
 [Params]
   description = "The digital home of BSIDES Fort Wayne, Indiana" # Description of your site
   opengraph = true
