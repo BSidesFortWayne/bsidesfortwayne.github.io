@@ -13,3 +13,5 @@ Registration opens **March 28th**.
 Regular registration (includes t-shirt) closes **May 1st** or until sold out, whichever is sooner.  
 Late registration (attendance only) closes the day before BSidesFortWayne.  
 BSidesFortWayne – Saturday, **May 21** at Sweetwater Sound.  
+
+<!--more-->
