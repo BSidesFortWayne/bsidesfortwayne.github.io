@@ -3,8 +3,6 @@ title = "BSIDES Fort Wayne"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
   name = "BSIDES Fort Wayne Organizers"
@@ -32,9 +30,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params]
   description = "The digital home of BSIDES Fort Wayne, Indiana" # Description of your site
   opengraph = true
-  twitter_cards = false
+  twitter_cards = true
   readmore = false # Show "Read more" button in list if true
-  authorbox = true
+  authorbox = false
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   highlightColor = "#268fbf"
@@ -48,11 +46,22 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist"]
+  widgets = ["search", "recent", "social"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  twitter = "BSidesFortWayne"
+  github = "BSidesFortWayne"
+  linkedin = "bsidesfortwayne"
+  email = "bsidesfortwayne@gmail.com"
+
+[[Params.widgets.social.custom]]
+  title = "Discord"
+  url = "https://discord.gg/kdHU84mUNF"
+  icon = "svg/discord.svg"
 
 [Permalinks]
   posts = "posts/:year/:month/:filename"
