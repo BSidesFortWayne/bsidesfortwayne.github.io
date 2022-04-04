@@ -39,6 +39,10 @@ Josh Brower has been crashing computers since his teens, and now feels fortunate
 
 Aaron is a Senior Network Engineer working in the managed security services space.  He achieved his CCIE Collaboration in 2014 and has more than 15 years of experience in the IT sector.  Aaron has extensive experience deploying and managing network security technologies across multiple vendors and verticals. When not at work, he enjoys cycling, woodworking, and building with Lego.
 
+<script type="text/art">
+bsftw{JustWgetItAndGrepForTheFlagMate!}
+</script>
+
 ### Carrie Roberts
 {{< figure src="/img/speakers2022/carrie_roberts.jpg" alt="Carrie Roberts picture" width="70%">}}
 ###### Presentation: *“Atomic Red Team: Hands-on Getting Started Guide”*
