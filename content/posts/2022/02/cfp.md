@@ -6,7 +6,6 @@ thumbnail: ""
 categories: []
 tags: []
 ---
-# Call For Papers 
 We're ready to start accepting talks and workshop ideas for the first BSidesFortWayne!
 
 We're open to any and all information security topics, it don't matter if you're red or blue. 🎙️🎶
