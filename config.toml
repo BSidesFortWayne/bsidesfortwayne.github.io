@@ -19,6 +19,10 @@ theme = "mainroad"
     url = '/schedule'
     weight = -90
   [[Menu.main]]
+    name = 'Speakers'
+    url = '/posts/2022/04/speakers_2022'
+    weight = -87
+  [[Menu.main]]
     name = 'Tickets'
     url = 'https://www.eventbrite.com/e/bsidesfortwayne-tickets-307893928027'
     weight = -85
@@ -65,3 +69,8 @@ theme = "mainroad"
 
 [Permalinks]
   posts = "posts/:year/:month/:filename"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
