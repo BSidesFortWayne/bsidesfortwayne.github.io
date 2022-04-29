@@ -11,7 +11,7 @@ The tickets for BSidesFortWayne are available now! The regular price is $25, and
 
 Grab your ticket now at [Eventbrite](https://www.eventbrite.com/e/bsidesfortwayne-tickets-307893928027)!
 
-Each ticket will include: BSidesFortWayne T-shirt, program, lanyard, and badge!
+Each ticket will include: BSidesFortWayne T-shirt, lunch, program, lanyard, and badge!
 
 Students who wish to receive the discount should contact us at bsidesfortwayne@gmail.com to receive a promo code.
 
