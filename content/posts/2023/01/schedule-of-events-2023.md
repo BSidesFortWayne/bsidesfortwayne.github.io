@@ -1,5 +1,5 @@
 ---
-title: "Schedule-of-Events-2023"
+title: "Schedule of Events 2023"
 description: ""
 date: "2023-01-23T10:08:04-05:00"
 thumbnail: ""
