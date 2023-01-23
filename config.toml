@@ -26,10 +26,10 @@ theme = "mainroad"
     name = 'Tickets'
     url = 'https://www.eventbrite.com/e/bsidesfortwayne-tickets-307893928027'
     weight = -85
-  [[Menu.main]]
-    name = 'CTF'
-    url = 'https://ctf.bsidesfortwayne.org'
-    weight = -82
+#[[Menu.main]]
+#name = 'CTF'
+#url = 'https://ctf.bsidesfortwayne.org'
+#weight = -82
   [[Menu.main]]
     name = 'About'
     url = '/about'
