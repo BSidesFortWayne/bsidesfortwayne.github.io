@@ -7,9 +7,7 @@ categories: []
 tags: []
 ---
 
-The BSides Fort Wayne organization is excited to announce BSides Fort Wayne 2023. In this post, you'll find some important dates and information about this year's event on **Saturday, May 20, 2023 at [Sweetwater Sound](https://www.sweetwater.com/local/directions/)**.
-
-SPONSORSHIP OPPORTUNITIES AVAILABLE NOW!
+**SPONSORSHIP OPPORTUNITIES AVAILABLE NOW!**
 
 If you or your business would like to become a sponsor of this amazing local cyber security community event, send an email to [**bsidesfortwayne.sponsorships@gmail.com**](bsidesfortwayne.sponsorships@gmail.com) for mor details.
 
@@ -22,3 +20,5 @@ Registration for BSides Fort Wayne 2023 opens **March 31st**.
 Regular registration includes a t-shirt and **closes May 1st** or until sold out, whichever comes first.
 
 Late registration (attendance only) closes the day before the BSides Fort Wayne event.
+
+BSides Fort Wayne **Saturday, May 20, 2023 at [Sweetwater Sound](https://www.sweetwater.com/local/directions/)**.
