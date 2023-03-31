@@ -6,6 +6,7 @@ thumbnail: ""
 categories: []
 tags: []
 ---
+
 Tickets for BSidesFortWayne are available now! The regular price is $25, and students can get a discount down to $10.
 
 Grab your ticket at [Eventbrite](https://www.eventbrite.com/e/bsidesfortwayne-2023-tickets-559672183567)!
