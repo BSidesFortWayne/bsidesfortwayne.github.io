@@ -24,7 +24,7 @@ theme = "mainroad"
     weight = -87
   [[Menu.main]]
     name = 'Tickets'
-    url = 'https://www.eventbrite.com/e/bsidesfortwayne-tickets-307893928027'
+    url = 'https://www.eventbrite.com/e/bsidesfortwayne-2023-tickets-559672183567'
     weight = -85
 #[[Menu.main]]
 #name = 'CTF'
