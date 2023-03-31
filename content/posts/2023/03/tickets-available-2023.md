@@ -1,6 +1,6 @@
 ---
 title: "Tickets Available 2023"
-description: ""Grab your ticket for BSidesFortWayne 2023 now!""
+description: "Grab your ticket for BSidesFortWayne 2023 now!"
 date: "2023-03-31T09:00:24-04:00"
 thumbnail: ""
 categories: []
