@@ -68,7 +68,7 @@ theme = "mainroad"
 
 [[Params.widgets.social.custom]]
   title = "Discord"
-  url = "https://discord.gg/kdHU84mUNF"
+  url = "https://discord.gg/tM4eZFFzjg"
   icon = "svg/discord.svg"
 
 [Permalinks]
