@@ -17,7 +17,7 @@ BSidesFortWayne started as a conversation amongst friends with the desire to see
 ## Connect with us!  
 Twitter: https://twitter.com/BSidesFortWayne  
 LinkedIn: https://www.linkedin.com/company/bsidesfortwayne  
-Summit City Infosec Discord Chat Server: https://discord.gg/kdHU84mUNF  
+Summit City Infosec Discord Chat Server: https://discord.gg/tM4eZFFzjg
   
 ## Questions?  
 Email: bsidesfortwayne@gmail.com  
