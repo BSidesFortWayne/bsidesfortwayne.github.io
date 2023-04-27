@@ -1,46 +1,60 @@
 ---
-title: "BSidesFortWayne 2022 Event Schedule"
+title: "BSidesFortWayne 2023 Event Schedule"
 description: ""
-date: "2022-05-05T12:21:57-05:00"
+date: "2023-04-27T11:21:57-05:00"
 thumbnail: ""
 categories: []
 tags: []
 ---
-BSidesFortWayne will take place at Sweetwater Sound on Saturday, **May 21**. Doors open and registration begins at 8:00 AM.
 
-## Track One
+BSidesFortWayne will take place at Sweetwater Sound on Saturday, **May 20**. Doors open and registration begins at 8:00 AM.
+
+## Technical Track
+
 **Location:** Performance Theater
 
-| Starting time | Presenter | Presentation |
-|:-------------:|:---------:|:------------:|
-| 8:45 AM | - | Pre-event Warmup |
-| 9:00 AM | Ira Winkler | *Human Security Engineering: Stopping the myth of the human firewall* |
-| 10:00 AM | Josh Bower | *Applying Sysmon-type prefiltering to Osquery Process Auditing* |
-| 10:30 AM | - | BREAK |
-| 10:45 AM | Aaron Foster | *Encrypted Traffic and the Modern Firewall* |
-| 11:15 AM | Mike Everett | *Understanding how Ransomware has become big business!* |
-| 12:00 PM | - | LUNCH BREAK |
-| 1:00 PM | Rod Trent | *Building Efficiency in the SOC Using Microsoft Sentinel* |
-| 2:00 PM | - | BREAK |
-| 2:15 PM | BB King | *Secret Burp Suite Secrets* |
-| 3:15 PM | Matt Fisher | *Solution to a High School No Phone Policy Written in Batch* |
-| 3:45 PM | - | BREAK |
-| 4:00 PM | Jake Butler | *Building a Cyber program with a Framework* |
-| 4:30 PM | Chris Fennell | *Using open source algorithms for C2 beacon detection with Microsoft Sentinel* |
-| 5:00 PM | - | Closing Notes |
+| Starting time |        Presenter         |                                              Presentation                                              |
+| :-----------: | :----------------------: | :----------------------------------------------------------------------------------------------------: |
+|    8:45 AM    |            -             |                                            Pre-event Warmup                                            |
+|    9:00 AM    |         BB King          |                         _AI is changing your world, but you will still matter_                         |
+|   10:00 AM    |      Carrie Roberts      |                              _10 Hacks to Bypass PowerShell History Log_                               |
+|   10:30 AM    |            -             |                                                 BREAK                                                  |
+|   10:45 AM    |       Bryan Sears        |                               _5 Things to do before your next pentest_                                |
+|   11:30 AM    |     Edmund Brumaghin     | _IPFS, DApps, & Blockchains: How Web3 Technologies Are Being Abused In Malware and Phishing Campaigns_ |
+|   12:15 PM    |            -             |                                              LUNCH BREAK                                               |
+|    1:15 PM    |      Michael Miller      |                           _Building Home Labs for Fun & Career Development_                            |
+|    2:15 PM    |       Kent Backman       |                                                  TBD                                                   |
+|    3:00 PM    |            -             |                                                 BREAK                                                  |
+|    3:15 PM    | Matt Fisher & Wren Forfa |                    _The Red and the Blue: A Dual-Sided Analysis of DNS Tunnelling_                     |
+|    4:00 PM    |        Seif Hateb        |                                        _Purple Teaming For All_                                        |
+|    4:30 PM    |     Curtis Brazzell      |                           _Evading anti-phishing and blacklist technologies_                           |
+|    5:00 PM    |            -             |                                             Closing Notes                                              |
 
-## Workshop
-### *Atomic Red Team: Hands-on Getting Started Guide*  
-**Location:** Conference Hall 1  
-**When:** 10-11 AM  
-**Who:** Carrie Roberts  
+## Leadership Track
+
+**Location:** Conference Room 1
+
+| Starting time |     Presenter      |                                          Presentation                                          |
+| :-----------: | :----------------: | :--------------------------------------------------------------------------------------------: |
+|   10:00 AM    |    Matt Hansen     |                          _The Journey to Big Tech, from a Small Town_                          |
+|   10:30 AM    |         -          |                                             BREAK                                              |
+|   10:45 AM    |    TJ Patterson    |                              _Practical Vulnerability Management_                              |
+|   11:30 AM    |    Chris Saylor    |                            _Building a Security Governance Program_                            |
+|   12:15 PM    |         -          |                                          LUNCH BREAK                                           |
+|    1:15 PM    | Christian Ebel-Orr |                              _Cyber Threats and Criminal Trends_                               |
+|    2:15 PM    |   Michael Miller   |          _Let's Talk About Bruno - The Reality of the Cybersecurity Talent Shortage_           |
+|    3:00 PM    |         -          |                                             BREAK                                              |
+|    3:15 PM    |    Chris Harvey    | _Planting a Tree: The long-game of aligning with the business for support, funding, and staff_ |
+|    4:00 PM    |   Kevin Ekbatani   |                               _Zero Trust and Cyber Resilience_                                |
 
 ## Alternate Tracks
-### Lock Picking Village
+
+### Badge Hacking Village
+
 **Location:** Conference Hall 2B  
-**When:** 10 AM - 4:30 PM
+**When:** 10 AM - 4:00 PM
 
 ### CTF
-**Location:** Conference Hall 2C  
-**When:** 10 AM - 4:30 PM
 
+**Location:** Conference Hall 2C  
+**When:** 10 AM - 4:00 PM
