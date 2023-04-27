@@ -20,7 +20,7 @@ theme = "mainroad"
     weight = -90
   [[Menu.main]]
     name = 'Speakers'
-    url = '/posts/2022/04/speakers_2022'
+    url = '/posts/2023/04/speakers-2023'
     weight = -87
   [[Menu.main]]
     name = 'Tickets'
