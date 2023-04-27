@@ -1,5 +1,5 @@
 ---
-title: "Presenters 2023"
+title: "Speakers 2023"
 description: ""
 date: "2023-04-27T11:32:37-04:00"
 thumbnail: ""
@@ -11,7 +11,7 @@ Come take a look at our exciting list of experts, leaders, and practitioners who
 
 <!--more-->
 
-## BB King - Keynote Presenter
+## BB King - Keynote Speaker
 
 {{< figure src="/img/speakers2023/BB King.png" alt="BB King picture" width="70%" >}}
 
