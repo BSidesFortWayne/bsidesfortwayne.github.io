@@ -58,7 +58,7 @@ Michael is a cybersecurity leader & practitioner with 11+ years' experience in e
 
 {{< figure src="/img/speakers2023/Kent Backman.jpeg" alt="Kent Backman picture" width="70%" >}}
 
-##### Presentation: _"TBD"_
+##### Presentation: _"Inside Black Basta Exfiltration Operations"_
 
 Kent Backman is a Principal Adversary Hunter at Dragos, specializing in behind-keyboard adversaries to industrial control systems and operational technology. Kent’s expertise has been informed by incident response, digital forensics, threat analysis, and hunting work for government and commercial organizations since 2002.
 
