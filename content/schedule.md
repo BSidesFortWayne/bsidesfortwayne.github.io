@@ -41,11 +41,11 @@ BSidesFortWayne will take place at Sweetwater Sound on Saturday, **May 20**. Doo
 |   10:45 AM    |       <a href="/posts/2023/04/speakers-2023#tj-patterson"> TJ Patterson </a>       |                              _Practical Vulnerability Management_                              |
 |   11:30 AM    |       <a href="/posts/2023/04/speakers-2023#chris-saylor"> Chris Saylor </a>       |                            _Building a Security Governance Program_                            |
 |   12:15 PM    |                                         -                                          |                                          LUNCH BREAK                                           |
+|   12:45 PM    |     <a href="/posts/2023/04/speakers-2023#kevin-ekbatani"> Kevin Ekbatani </a>     |                               _Zero Trust and Cyber Resilience_                                |
 |    1:15 PM    | <a href="/posts/2023/04/speakers-2023#christian-ebel-orr"> Christian Ebel-Orr </a> |                              _Cyber Threats and Criminal Trends_                               |
 |    2:15 PM    |     <a href="/posts/2023/04/speakers-2023#michael-miller"> Michael Miller </a>     |          _Let's Talk About Bruno - The Reality of the Cybersecurity Talent Shortage_           |
 |    3:00 PM    |                                         -                                          |                                             BREAK                                              |
 |    3:15 PM    |       <a href="/posts/2023/04/speakers-2023#chris-harvey"> Chris Harvey </a>       | _Planting a Tree: The long-game of aligning with the business for support, funding, and staff_ |
-|    4:00 PM    |     <a href="/posts/2023/04/speakers-2023#kevin-ekbatani"> Kevin Ekbatani </a>     |                               _Zero Trust and Cyber Resilience_                                |
 
 ## Alternate Tracks
 
