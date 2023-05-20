@@ -87,7 +87,7 @@ Seif collaborates with diverse teams and stakeholders to design and implement cl
 
 {{< figure src="/img/speakers2023/Curtis Brazzell.jpg" alt="Curtis Brazzell picture" width="70%" >}}
 
-##### Presentation: _"Evading anti-phishing and blacklist technologies"_
+##### Presentation: _"These Aren't the Phish You're Looking For"_
 
 Curtis is a local security professional with 17 years of security experience. He holds a CISSP, is the author of the Cybersecurity ABC’s children’s books, and is a researcher and blogger in his free time. He’s provided many defensive and offensive security services for customers over the last 12 years and has a passion for spear-phishing and awareness training.
 
