@@ -137,11 +137,3 @@ Special Agent Christian Ebel-Orr has been with the Secret Service for 20 years. 
 
 Christopher Harvey is the Assistant Vice President of Technology Architecture and the Chief Information Security Officer (CISO) at Brotherhood Mutual Insurance Company. He has been with Brotherhood Mutual since 1998 and has earned the CPCU designation (Chartered Property Casualty Underwriter). Chris holds a Management Information Systems degree from Ball State University, and is a graduate of General Electric’s ISMP program. He has technical certifications from Microsoft, Novell, Lotus, IBM, and is a Certified Information Security Manager (CISM).  
 Today Chris oversees various teams at Brotherhood Mutual including Infrastructure, Support Desk, Office Services, Business Intelligence, andDevOps. In his role as CISO, he focuses on ensuring the stability, security, and performance of the company’s information systems. This includes primary oversight of networking, data security, communication services, computer equipment, cloud, and application servers.
-
-## Kevin Ekbatani
-
-{{< figure src="/img/speakers2023/Kevin Ekbatani.jpg" alt="Kevin Ekbatani picture" width="70%" >}}
-
-##### Presentation: _"Zero Trust and Cyber Resilience"_
-
-Kevin Ekbatani is a Security Specialist for Awake Security- the NDR division of Arista Networks that helps threat hunters deliver answers, not alerts. He has extensive system engineering experience working in endpoint security, incident response, and MDR services. He is a veteran of multiple startups centric in AI security and is an adjunct cybersecurity professor at University of Texas in Austin, TX.
