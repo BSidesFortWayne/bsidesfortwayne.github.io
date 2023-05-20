@@ -27,7 +27,7 @@ BSidesFortWayne will take place at Sweetwater Sound on Saturday, **May 20**. Doo
 |    3:00 PM    |                                               -                                               |                                                 BREAK                                                  |
 |    3:15 PM    | <a href="/posts/2023/04/speakers-2023#matt-fisher--wren-forfa"> Matt Fisher & Wren Forfa </a> |                    _The Red and the Blue: A Dual-Sided Analysis of DNS Tunnelling_                     |
 |    4:00 PM    |              <a href="/posts/2023/04/speakers-2023#seif-hateb"> Seif Hateb </a>               |                                        _Purple Teaming For All_                                        |
-|    4:30 PM    |         <a href="/posts/2023/04/speakers-2023#curtis-brazzell"> Curtis Brazzell </a>          |                           _Evading anti-phishing and blacklist technologies_                           |
+|    4:30 PM    |         <a href="/posts/2023/04/speakers-2023#curtis-brazzell"> Curtis Brazzell </a>          |                           _These Aren't the Phish You're Looking For_                           |
 |    5:00 PM    |                                               -                                               |                                             Closing Notes                                              |
 
 ## Leadership Track
