@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-CFP **opens February 2nd** and will **close March 15th**.\
+CFP **opens February 1st** and will **close March 15th**.\
 Speakers will be selected and notified on or before **March 22nd**.
 
 
