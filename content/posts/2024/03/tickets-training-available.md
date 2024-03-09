@@ -1,5 +1,5 @@
 ---
-title: "Tickets-Training-Available"
+title: "Tickets & Training Available"
 description: ""
 date: "2024-03-09T00:04:36-05:00"
 thumbnail: ""
