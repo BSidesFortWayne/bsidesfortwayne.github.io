@@ -90,7 +90,11 @@ Richard Rieben is a Partner and HITRUST practice lead at Linford & Co., where he
 
 ## Alissa (DNSPrincess)
 
+{{< figure src="/img/speakers2024/alissa.jpeg" alt="Alissa (DNSPrincess) picture" width="70%" >}}
+
 ##### Presentation: _"Preventing and Recovering from Burnout"_
+
+I’m a seasoned cybersecurity professional with over a decade of experience, specializing in cybersecurity solutions architecture and penetration testing. I’ve enjoyed a robust academic career and now apply my deep knowledge to practical challenges in the field. As a mentor, I guide aspiring tech professionals towards achieving their Security+ certification, leveraging my extensive experience to foster their growth. Beyond my professional life, I’m a devoted dog parent and a supportive friend, especially adept at navigating the complexities of burnout. My journey has not only been about advancing my own skills but also about uplifting others in their personal and professional endeavors.
 
 ## Stephen Heindel
 
