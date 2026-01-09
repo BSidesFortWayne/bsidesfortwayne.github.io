@@ -1,0 +1,31 @@
+{{ define "body" }}
+    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+{{ end }}
+
+{{ define "main" }}
+    <div class="content-center">
+        <main>
+            <div>
+                {{ if .Site.Params.Portrait.Path }}
+                <img src="{{ .Site.Params.Portrait.Path }}" alt="{{ .Site.Params.Portrait.Alt }}" style=" margin-left: auto; margin-right: auto; display: block; width: 50%; height: auto" />
+                {{ end }}
+
+                <h1>{{ .Site.Title }}</h1>
+
+                <div class="subtitle">
+                    {{ .Site.Params.subtitle }}
+                    We are preparing for BSides Fort Wayne 2026!<br>
+                    Pencil in Saturday June 6th, 2026 on your calendar and stay tuned for more details!<br>
+                    For the best updates, follow us on <a href="https://www.linkedin.com/company/bsidesfortwayne">LinkedIn</a> or join our <a href="https://discord.gg/tM4eZFFzjg">Discord!</a><br>
+                    If you are interested in sponsoring, please reach out to us at <a href="mailto:sponsorship@bsidesfortwayne.org">sponsorship@bsidesfortwayne.org</a>
+                </div>
+                <br>
+                {{- with .Site.Params.social }}
+                    <div>
+                        {{ partial "social-icons.html" . }}
+                    </div>
+                {{- end }}
+            </div>
+        </main>
+    </div>
+{{ end }}
