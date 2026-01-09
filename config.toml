@@ -13,11 +13,32 @@ theme = "hugo-theme-hello-friend-ng"
   bio = ""
   avatar = "img/logo.png"
 
-[menu]
-  [[menu.main]]
-    name = 'Home'
-    url = '/'
-    weight = -100
+[Menu]
+  #[[Menus.main]]
+  #  identifier = 'Home'
+  #  name = 'Home'
+  #  url = '/'
+  [[Menus.main]]
+    identifier = '100'
+    name = 'About'
+    url = '/about'
+  [[Menus.main]]
+    identifier = '90'
+    name = 'Legal'
+    url = '/legal'
+  [[Menus.main]]
+    identifier = '40'
+    name = 'Sponsorships'
+    url = 'https://bsidesfortwayne.org/sponsorship'
+  [[Menus.main]]
+    identifier = '30'
+    name = 'CFP'
+    url = 'https://bsidesfortwayne.org/CFP'
+  [[Menus.main]]
+    identifier = '20'
+    name = 'Tickets'
+    url = 'https://bsidesfortwayne.org/tickets'  
+    
 #  [[menu.main]]
 #    name = 'Schedule'
 #    url = '/schedule'
@@ -30,10 +51,7 @@ theme = "hugo-theme-hello-friend-ng"
 #name = 'CTF'
 #url = 'https://ctf.bsidesfortwayne.org'
 #weight = -82
-  [[Menu.main]]
-    name = 'About'
-    url = '/about'
-    weight = -80
+
 
 [Params.Portrait]
   path="img/logo.png"
