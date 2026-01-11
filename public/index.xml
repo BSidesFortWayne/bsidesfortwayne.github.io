@@ -141,5 +141,19 @@
       <guid>//localhost:1313/posts/2021/11/coming-soon/</guid>
       <description>&lt;p&gt;BSIDES Fort Wayne is coming soon. Check back for updates!&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/flag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/flag/</guid>
+      <description>&lt;p&gt;Congrats on finding the secret flag!&#xA;bsfw{EnumerationIsKey}&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Legal Documents</title>
+      <link>//localhost:1313/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/legal/</guid>
+      <description>&lt;p&gt;BSidesFW&amp;rsquo;s CFP terms and conditions, please visit &lt;a href=&#34;https://bsidesfortwayne.org/cfpterms&#34;&gt;bsidesfortwayne.org/cfpterms&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;BSidesFW&amp;rsquo;s Code of Conduct, please visit &lt;a href=&#34;https://bsidesfortwayne.org/cfpterms&#34;&gt;bsidesfortwayne.org/codeofconduct&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;BSidesFW&amp;rsquo;s CTF terms and conditions &lt;a href=&#34;#&#34;&gt;WIP&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

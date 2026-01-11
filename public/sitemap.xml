@@ -76,5 +76,9 @@
   </url><url>
     <loc>//localhost:1313/tags/updates/</loc>
     <lastmod>2021-11-07T23:34:53-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/flag/</loc>
+  </url><url>
+    <loc>//localhost:1313/legal/</loc>
   </url>
 </urlset>

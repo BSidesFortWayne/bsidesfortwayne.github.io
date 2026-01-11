@@ -4,9 +4,13 @@ languageCode = "en-us"
 pagerSize = "10" # Number of posts per page
 theme = "hugo-theme-hello-friend-ng"
 
-[[params.social]]
-  name = "Discord"
-  url = "<profile_URL>"
+customJS = ['js/encrypt.js']
+
+[Params.logo]
+  logoMark     = " "
+  logoText     = "BSFW>"
+  logoHomeLink = "/"
+  logoCursorColor="#268FBF"
 
 [Author]
   name = "BSIDES Fort Wayne Organizers"
@@ -30,14 +34,22 @@ theme = "hugo-theme-hello-friend-ng"
     identifier = '40'
     name = 'Sponsorships'
     url = 'https://bsidesfortwayne.org/sponsorship'
+    params.external = true
   [[Menus.main]]
     identifier = '30'
     name = 'CFP'
     url = 'https://bsidesfortwayne.org/CFP'
+    params.external = true
   [[Menus.main]]
     identifier = '20'
     name = 'Tickets'
-    url = 'https://bsidesfortwayne.org/tickets'  
+    url = 'https://bsidesfortwayne.org/tickets'
+    params.external = true
+  [[Menus.main]]
+    identifier = '25'
+    name = 'CTF'
+    url = 'https://ctf.bsfw.org'
+    params.external = true
     
 #  [[menu.main]]
 #    name = 'Schedule'
@@ -55,6 +67,8 @@ theme = "hugo-theme-hello-friend-ng"
 
 [Params.Portrait]
   path="img/logo.png"
+
+
 
 [[Params.social]]
   name = "discord"
