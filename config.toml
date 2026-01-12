@@ -80,7 +80,7 @@ customJS = ['js/encrypt.js']
 
 [[Params.social]]  
   name = "email"
-  url = "emailto:bsidesfortwayne@gmail.com"
+  url = "mailto:bsidesfortwayne@gmail.com"
 
 [[Params.social]]  
   name = "X"
