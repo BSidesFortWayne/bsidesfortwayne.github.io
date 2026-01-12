@@ -1,8 +1,16 @@
-##baseurl = "https://bsidesfortwayne.org/"
+##baseurl = 
 title = "BSIDES Fort Wayne"
 languageCode = "en-us"
 pagerSize = "10" # Number of posts per page
-theme = "mainroad"
+theme = "hugo-theme-hello-friend-ng"
+
+customJS = ['js/encrypt.js']
+
+[Params.logo]
+  logoMark     = " "
+  logoText     = "BSFW>"
+  logoHomeLink = "/"
+  logoCursorColor="#268FBF"
 
 [Author]
   name = "BSIDES Fort Wayne Organizers"
@@ -10,69 +18,81 @@ theme = "mainroad"
   avatar = "img/logo.png"
 
 [Menu]
-  [[Menu.main]]
-    name = 'Home'
-    url = '/'
-    weight = -100
-  [[Menu.main]]
-    name = 'Schedule'
-    url = '/schedule'
-    weight = -90
-  [[Menu.main]]
-    name = 'Speakers'
-    url = '/posts/2024/04/speakers-2024'
-    weight = -87
-  [[Menu.main]]
+  #[[Menus.main]]
+  #  identifier = 'Home'
+  #  name = 'Home'
+  #  url = '/'
+  [[Menus.main]]
+    identifier = '100'
+    name = 'About'
+    url = '/about'
+  [[Menus.main]]
+    identifier = '90'
+    name = 'Legal'
+    url = '/legal'
+  [[Menus.main]]
+    identifier = '40'
+    name = 'Sponsorships'
+    url = 'https://bsidesfortwayne.org/sponsorship'
+    params.external = true
+  [[Menus.main]]
+    identifier = '30'
+    name = 'CFP'
+    url = 'https://bsidesfortwayne.org/CFP'
+    params.external = true
+  [[Menus.main]]
+    identifier = '20'
     name = 'Tickets'
-    url = 'https://www.eventbrite.com/e/bsidesfortwayne-2024-tickets-789388280597'
-    weight = -85
+    url = 'https://bsidesfortwayne.org/tickets'
+    params.external = true
+  [[Menus.main]]
+    identifier = '25'
+    name = 'CTF'
+    url = 'https://ctf.bsfw.org'
+    params.external = true
+    
+#  [[menu.main]]
+#    name = 'Schedule'
+#    url = '/schedule'
+#    weight = -90
+#  [[menu.main]]
+#    name = 'Tickets'
+#    url = 'https://www.eventbrite.com/e/bsidesfortwayne-2024-tickets-789388280597'
+#    weight = -85
 #[[Menu.main]]
 #name = 'CTF'
 #url = 'https://ctf.bsidesfortwayne.org'
 #weight = -82
-  [[Menu.main]]
-    name = 'About'
-    url = '/about'
-    weight = -80
 
-[Params]
-  description = "The digital home of BSIDES Fort Wayne, Indiana" # Description of your site
-  opengraph = true
-  twitter_cards = true
-  readmore = false # Show "Read more" button in list if true
-  authorbox = false
-  pager = true
-  post_meta = ["date", "categories"] # Order of post meta information
-  highlightColor = "#268fbf"
 
-[Params.logo]
-  image = "img/logo.png"
-  subtitle = "" # Logo subtitle
+[Params.Portrait]
+  path="img/logo.png"
 
-[Params.sidebar]
-  home = "right"   # Configure layout for home page
-  list = "right"   # Configure layout for list pages
-  single = "right" # Configure layout for single pages
-  # Enable widgets in given order
-  widgets = ["search", "recent", "social"]
 
-[Params.widgets]
-  recent_num = 5 # Set the number of articles in the "Recent articles" widget
-  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
 
-[Params.widgets.social]
-  twitter = "BSidesFortWayne"
-  github = "BSidesFortWayne"
-  linkedin = "bsidesfortwayne"
-  email = "bsidesfortwayne@gmail.com"
-
-[[Params.widgets.social.custom]]
-  title = "Discord"
+[[Params.social]]
+  name = "discord"
   url = "https://discord.gg/tM4eZFFzjg"
-  icon = "svg/discord.svg"
+
+[[Params.social]]  
+  name = "linkedin"
+  url = "https://www.linkedin.com/company/bsidesfortwayne"
+
+[[Params.social]]  
+  name = "email"
+  url = "mailto:bsidesfortwayne@gmail.com"
+
+[[Params.social]]  
+  name = "X"
+  url = "https://x.com/BSidesFortWayne"
+
+[[Params.social]]
+  name="github"
+  url="https://github.com/BSidesFortWayne"
+   
 
 [Permalinks]
-  posts = "posts/:year/:month/:filename"
+  posts = "posts/:year/:month/:contentbasename"
 
 [markup]
   [markup.goldmark]
