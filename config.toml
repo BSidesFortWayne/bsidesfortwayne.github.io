@@ -89,8 +89,40 @@ customJS = ['js/encrypt.js']
 [[Params.social]]
   name="github"
   url="https://github.com/BSidesFortWayne"
-   
 
+# Sponsor Stuff
+#
+# Tiers
+# Platinum = 1
+# Gold = 2
+# Silver = 3
+# Bronze = 4
+# Sponsor Stuff
+#
+# Tiers
+# Platinum = 1
+# Gold = 2
+# Silver = 3
+# Bronze = 4
+[[Params.sponsors]]
+  name="PFW"
+  url="https://www.pfw.edu/"
+  logo="https://www.pfw.edu/application/themes/pfw-web-templates-1.5/assets/img/purdue-fw-logo.png"
+  tier="Platinum"
+
+[[Params.sponsors]]
+  name="guidepoint"
+  url="https://www.guidepointsecurity.com/"
+  logo="https://www.guidepointsecurity.com/wp-content/uploads/2024/03/GPS_Horizontal_White_Text_Reg_Mark_RGB.svg"
+  tier="Silver"
+
+[[Params.sponsors]]
+  name="armis"
+  url="https://www.armis.com/"
+  logo="https://www.armis.com/wp-content/themes/armis/resources/images/svg/logo-dark.svg"
+  tier="Silver"
+
+  
 [Permalinks]
   posts = "posts/:year/:month/:contentbasename"
 
