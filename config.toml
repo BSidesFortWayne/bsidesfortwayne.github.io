@@ -68,8 +68,6 @@ customJS = ['js/encrypt.js']
 [Params.Portrait]
   path="img/logo.png"
 
-
-
 [[Params.social]]
   name = "discord"
   url = "https://discord.gg/tM4eZFFzjg"
@@ -90,23 +88,6 @@ customJS = ['js/encrypt.js']
   name="github"
   url="https://github.com/BSidesFortWayne"
    
-
-[[Params.social]]  
-  name = "linkedin"
-  url = "https://www.linkedin.com/company/bsidesfortwayne"
-
-[[Params.social]]  
-  name = "email"
-  url = "mailto:bsidesfortwayne@gmail.com"
-
-[[Params.social]]  
-  name = "X"
-  url = "https://x.com/BSidesFortWayne"
-
-[[Params.social]]
-  name="github"
-  url="https://github.com/BSidesFortWayne"
-
 # Sponsor Stuff
 #
 # Tiers
