@@ -97,11 +97,9 @@ customJS = ['js/encrypt.js']
 # Bronze = 4
 # Sponsor Stuff
 #
-# Tiers
-# Platinum = 1
-# Gold = 2
-# Silver = 3
-# Bronze = 4
+
+theme = "github-dark"
+
 [[Params.sponsors]]
   name="PFW"
   url="https://www.pfw.edu/"
