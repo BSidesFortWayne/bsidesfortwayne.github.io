@@ -16,9 +16,15 @@
     &nbsp;<a href="{{ .url }}" {{if eq .nonewpage 0}} target="_blank" {{end}} rel="me noopener {{ .rel }}"><img src="{{ .logo }}" alt="{{ .name | humanize }}" {{if .width}}width="{{ .width }}"{{end}} {{if .height}}height="{{ .height }}"{{end}} /></a>&nbsp;
 {{- end }}
 </div>
-<h3>Bronze</h3>
+<h3 style="text-decoration: underline;">Bronze</h3>
 <div>
 {{ range where . "tier" "Bronze" }}
+    &nbsp;<a href="{{ .url }}" {{if eq .nonewpage 0}} target="_blank" {{end}} rel="me noopener {{ .rel }}"><img src="{{ .logo }}" alt="{{ .name | humanize }}" {{if .width}}width="{{ .width }}"{{end}} {{if .height}}height="{{ .height }}"{{end}} /></a>&nbsp;
+{{- end }}
+</div>
+<h3 style="text-decoration: underline;">Custom</h3>
+<div>
+{{ range where . "tier" "Custom" }}
     &nbsp;<a href="{{ .url }}" {{if eq .nonewpage 0}} target="_blank" {{end}} rel="me noopener {{ .rel }}"><img src="{{ .logo }}" alt="{{ .name | humanize }}" {{if .width}}width="{{ .width }}"{{end}} {{if .height}}height="{{ .height }}"{{end}} /></a>&nbsp;
 {{- end }}
 </div>
