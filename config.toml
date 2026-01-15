@@ -89,6 +89,23 @@ customJS = ['js/encrypt.js']
 [[Params.social]]
   name="github"
   url="https://github.com/BSidesFortWayne"
+   
+
+[[Params.social]]  
+  name = "linkedin"
+  url = "https://www.linkedin.com/company/bsidesfortwayne"
+
+[[Params.social]]  
+  name = "email"
+  url = "mailto:bsidesfortwayne@gmail.com"
+
+[[Params.social]]  
+  name = "X"
+  url = "https://x.com/BSidesFortWayne"
+
+[[Params.social]]
+  name="github"
+  url="https://github.com/BSidesFortWayne"
 
 # Sponsor Stuff
 #
