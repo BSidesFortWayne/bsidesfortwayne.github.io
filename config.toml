@@ -121,12 +121,19 @@ customJS = ['js/encrypt.js']
   logo="https://winonait.com/wp-content/themes/mywp/assets/images/logo.png"
   tier="Gold"
   
-  [[Params.sponsors]]
+[[Params.sponsors]]
   name="Lucid Services Group"
   url="https://www.lucidservicesgroup.com/"
   logo="https://media.licdn.com/dms/image/v2/C510BAQEdXduyNO9EIw/company-logo_200_200/company-logo_200_200/0/1631377262921?e=2147483647&v=beta&t=zTRNjzDPMfD56n1uznfm_jaG0IhotjcQw0xhqlMWcaw"
   tier="Gold"
   width="50%"
+
+[[Params.sponsors]]
+  name="LinfordCo"
+  url="https://linfordco.com/"
+  logo="/img/Logos2026/LinfordCov2.png"
+  tier="Custom"
+
 [Permalinks]
   posts = "posts/:year/:month/:contentbasename"
 
