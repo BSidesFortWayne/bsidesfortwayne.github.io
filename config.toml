@@ -115,7 +115,18 @@ customJS = ['js/encrypt.js']
   logo="https://www.armis.com/wp-content/themes/armis/resources/images/svg/logo-dark.svg"
   tier="Silver"
 
+[[Params.sponsors]]
+  name="winonaIT"
+  url="https://winonait.com/"
+  logo="https://winonait.com/wp-content/themes/mywp/assets/images/logo.png"
+  tier="Gold"
   
+  [[Params.sponsors]]
+  name="Lucid Services Group"
+  url="https://www.lucidservicesgroup.com/"
+  logo="https://media.licdn.com/dms/image/v2/C510BAQEdXduyNO9EIw/company-logo_200_200/company-logo_200_200/0/1631377262921?e=2147483647&v=beta&t=zTRNjzDPMfD56n1uznfm_jaG0IhotjcQw0xhqlMWcaw"
+  tier="Gold"
+  width="50%"
 [Permalinks]
   posts = "posts/:year/:month/:contentbasename"
 
